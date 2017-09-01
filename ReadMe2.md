@@ -1,21 +1,21 @@
 # Java Syllabus
 
-One Paragraph of project description goes here
-
-## Module 1
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## Module 1 : "Lets Learn Basics"
 
 ### Purpose
 
-What things you need to install the software and how to install them
-
+"You will get a basic understanding of how to find complexity of a solution. You will know how to handle new problems. You will read about a variety of datatypes and their uses."
 
 ### Content
-
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
+1.Flowcharts and pseudo-code 
+2.Debugging
+3.Input-Output 
+4.Data Types and Variables 
+5.Typecasting 
+6.Loops 
+7.Functions 
+8.Arrays, multi-dimensional arrays and dynamic arrays 
+9.String and String Buffer
 
 
 
