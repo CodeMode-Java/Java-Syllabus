@@ -4,7 +4,7 @@
 
 ### Purpose
 
-"You will get a basic understanding of how to find complexity of a solution. You will know how to handle new problems. You will read about a variety of datatypes and their uses."
+You will get a basic understanding of how to find complexity of a solution. You will know how to handle new problems. You will read about a variety of datatypes and their uses.
 
 ### Content
 1.Flowcharts and pseudo-code 
@@ -29,7 +29,7 @@
 
 ### Purpose
 
-"Recursion will make your solutions easy"
+Recursion will make your solutions easy
 
 ### Content
 
@@ -47,17 +47,16 @@
 
 ### Purpose
 
-"Searching and sorting algorithm consists of a major portion of the interviews."
-
+Searching and sorting algorithm consists of a major portion of the interviews.
 ### Content
 1. Searching Problems
 
 2. Sorting Problems
 
-## Module 4 : "Data Structure Part 1:"
+## Module 4 : "Data Structure Part 1"
 
 ### Purpose
-"Linked list, Stack and Queue and Dynamic Programming are one of the favorites in service based company interviews."
+Linked list, Stack and Queue and Dynamic Programming are one of the favorites in service based company interviews.
 
 ### Content
 1.Linked Lists
@@ -68,10 +67,10 @@
 
 4.Dynamic Programming
 
-## Module 5 : "Data Structure Part 2:"
+## Module 5 : "Data Structure Part 2"
 
 ### Purpose
-"Must for developers and also favorite topic for product based company in interviews"
+Must for developers and also favorite topic for product based company in interviews
 ### Content
 1.Generic Trees
 
